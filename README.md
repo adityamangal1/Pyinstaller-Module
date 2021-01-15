@@ -1,4 +1,4 @@
-# pyinstallerMdoule
+# pyinstaller Mdoule
 PyInstaller bundles a Python application and all its dependencies into a single package. The user can run the packaged app without installing a Python interpreter or any modules. PyInstaller supports Python 3.5 or newer and correctly bundles the major Python packages such as NumPy, PyQt, Django, wxPython, and others.
 PyInstaller is tested against Windows, Mac OS X, and GNU/Linux. However, it is not a cross-compiler: to make a Windows app you run PyInstaller in Windows; to make a GNU/Linux app you run it in GNU/Linux, etc.
 
